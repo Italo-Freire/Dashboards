@@ -1,1 +1,1 @@
-*Neste arquivo se encontra Relátorios no Power Bi de diversas áreas diferente para prática*
+*Neste arquivo, encontram-se relatórios do Power BI de diversas áreas diferentes para prática.*
